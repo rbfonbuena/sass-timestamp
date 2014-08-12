@@ -1,5 +1,5 @@
 # sass-timestamp
-Sass function for addimg timestamps to compiled CSS.
+Sass function for adding timestamps to compiled CSS.
 
 ### Requirements
 - Sass 3.2+
