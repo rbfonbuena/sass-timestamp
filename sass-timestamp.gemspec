@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 	s.name = %q{sass-timestamp}
-	s.version = "0.0.1"
-	s.date = %q{2014-08-12}
+	s.version = "0.0.2"
+	s.date = %q{2014-09-03}
 	s.license = 'MIT'
 	s.summary = %q{SASS compile timestamp function}
 	s.description = "Sass function for addimg timestamps to compiled CSS."
