@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
 	s.date = %q{2014-09-03}
 	s.license = 'MIT'
 	s.summary = %q{SASS compile timestamp function}
-	s.description = "Sass function for addimg timestamps to compiled CSS."
+	s.description = "Sass function for adding timestamps to compiled CSS."
 	s.authors = ["madastro"]
 	s.email = 'hello@madastro.com'
 	s.homepage = 'https://github.com/madastro/sass-timestamp'
