@@ -13,7 +13,12 @@ gem install sass-timestamp
 1. Add `require "sass-timestamp"` in `sass` option or `config.rb` if using compass.
 
 2. Add `#{timestamp()}` in the header or anywhere in your `.scss` file:
+    ```scss
+    /* Compiled on #{timestamp()} */
+    ```
+    output:
+    ```css
+    /* Compiled on 2015-02-02 13:01:40 +0800 */
+    ```
 
-```scss
-/* Compiled on #{timestamp()} */
-```
+Alternatively, for Unix-style time stamp, use `#{unix_timestamp()}`.
