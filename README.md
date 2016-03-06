@@ -2,7 +2,7 @@
 Ruby Sass function for adding timestamps to compiled CSS.
 
 ### Requirements
-- Sass 3.2+
+- Ruby Sass 3.2+
 
 ### Install
 ```sh
