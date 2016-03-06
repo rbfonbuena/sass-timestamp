@@ -1,5 +1,5 @@
 # sass-timestamp [![Gem Version](https://badge.fury.io/rb/sass-timestamp.svg)](http://badge.fury.io/rb/sass-timestamp)
-Sass function for adding timestamps to compiled CSS.
+Ruby Sass function for adding timestamps to compiled CSS.
 
 ### Requirements
 - Sass 3.2+
